@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rn-push",
+    "slug": "rn-push",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
